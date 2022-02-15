@@ -1,4 +1,4 @@
-golib/csvio
+l4go/csvio
 ===
 
 selectでの非同期処理に対応した、csvベースでの読み込み/書き込みを行うライブラリです。  
